@@ -1,0 +1,1 @@
+pyinstaller --path C:\Users\Dennic\AppData\Local\Programs\Python\Python35\Lib\site-packages\PyQt5\Qt\bin App.py -F -w --icon=icon.ico
